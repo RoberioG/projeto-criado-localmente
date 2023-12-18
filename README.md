@@ -6,13 +6,13 @@
     Um arquivo que não está "mapeado", ou seja, ainda não faz parte dos arquivos pertencentes ao repositório local.
 
 - **Unmodified (Não modificado):**  
-    Um arquivo já pertencente e sincronzado ao repoitório local.
+    Um arquivo já pertencente ao repoitório local e está sincronzado.
 
 - **Modified (Modificado):**  
     Um arquivo já pertencente ao repoitório local porém, sofreu modificação e precisa ser sincronizado.
 
 - **Staged (Pronto para commit):**  
-    Um arquivo já pertencente ao repoitório local que foi modificado e pronto para ser sincronizado.
+    Um arquivo que pertencente ao repoitório local que foi modificado e está pronto para ser sincronizado.
 
 ![Alt text](estados-git.png)
 
@@ -51,6 +51,12 @@
 
 - *git fetch*  
     Baixa e espera análise das modificações salvas do repositório remoto para o repositório local.
+
+- *git branch &lt;nome da nova branch&gt;*  
+    Cria uma nova ramificação para desenvolvimento de código em paralelo.
+
+- *git checkout &lt;nome da branch&gt;*  
+    Muda o local de desenvolvimento de uma ramificação para outra.
 
 ## Principais termos usados ao trabalhar com Git e Github
 

@@ -62,7 +62,10 @@
     Muda o local de desenvolvimento de uma ramificação para outra.
 
 - *git merge &lt;nome da branch&gt;*  
-    Trás as modificações de uma ramificação para o local de deselvolvimento atual (lembrar: estando na principal traz de uma ramificação).
+    Estando na ramificação principal, trás as modificações de uma outra ramificação para o local de deselvolvimento atual.
+
+- *git branch -d &lt;nome da branch&gt;*  
+    Estando na ramificação principal, apaga uma ramificação.
 
 
 

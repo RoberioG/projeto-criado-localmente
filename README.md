@@ -19,8 +19,14 @@
 ---
 ## Comandos disponíveis para trabalhar com git por terminal
 
-- **git status**  
+- *git status*  
     Verifica e indica o estado dos arquivos.
 
-- **git add &lt;arquivo&gt;**  
+- *git diff*  
+    Mostra que linhas foram modificadas.
+
+- *git add &lt;arquivo&gt;*  
     Adiciona um arquivo para o estado de Staged.
+
+- *git commit -m "mensagem"*  
+    Cria um commit para sincronizar os arquivos no repositório e passa uma mensagem do que foi modificado.

@@ -58,6 +58,10 @@
 - *git checkout &lt;nome da branch&gt;*  
     Muda o local de desenvolvimento de uma ramificação para outra.
 
+- *git log --oneline --decorate*  
+    Mostra a ramificação do local de desenvolvimento, as demais ramificações disponíveis e os commits feitos.
+
+
 ## Principais termos usados ao trabalhar com Git e Github
 
 - **Git:** Sistema de controle de versão distribuído que permite o rastreamento de alterações no código-fonte durante o desenvolvimento de software.

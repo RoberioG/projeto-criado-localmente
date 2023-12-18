@@ -25,6 +25,9 @@
 - *git diff*  
     Mostra que linhas foram modificadas.
 
+- *git log*  
+    Mostra os commits realizados até o momento.
+
 - *git add &lt;arquivo&gt;*  
     Adiciona um arquivo para o estado de Staged.
 

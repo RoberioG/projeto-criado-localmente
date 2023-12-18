@@ -32,7 +32,10 @@
     Adiciona um arquivo para o estado de Staged.
 
 - *git restore &lt;arquivo&gt;*  
-    Restaura/retira modificações feitas ao se modificar um arquivo (funciona antes do commit).
+    Restaura/retira modificações feitas enquanto se modifica um arquivo (funciona antes do git add).
+
+- *git restore --staged &lt;arquivo&gt;*  
+    Restaura/retira modificações feitas ao salvar as modificações de um arquivo (funciona depois do git add).
 
 - *git commit -m "mensagem"*  
     Cria um commit para sincronizar os arquivos no repositório e passa uma mensagem do que foi modificado.

@@ -16,6 +16,7 @@
 
 ![Alt text](estados-git.png)
 
+---
 ## Comandos disponíveis para trabalhar com git por terminal
 
 - git status

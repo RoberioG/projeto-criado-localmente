@@ -2,16 +2,16 @@
 
 ## Tipos de estados que um arquivo pode está no github:
 
-- Untraked (Não mapeado):  
+- **Untraked (Não mapeado):**  
     Um arquivo que não está "mapeado", ou seja, ainda não faz parte dos arquivos pertencentes ao repositório local.
 
-- Unmodified (Não modificado):  
+- **Unmodified (Não modificado):**  
     Um arquivo já pertencente e sincronzado ao repoitório local.
 
-- Modified (Modificado):  
+- **Modified (Modificado):**  
     Um arquivo já pertencente ao repoitório local porém, sofreu modificação e precisa ser sincronizado.
 
-- Staged (Pronto para commit):  
+- **Staged (Pronto para commit):**  
     Um arquivo já pertencente ao repoitório local que foi modificado e pronto para ser sincronizado.
 
 ![Alt text](estados-git.png)

@@ -61,6 +61,10 @@
 - *git checkout &lt;nome da branch&gt;*  
     Muda o local de desenvolvimento de uma ramificação para outra.
 
+- *git merge &lt;nome da branch&gt;*  
+    Trás as modificações de uma ramificação para o local de deselvolvimento atual (lembrar: estando na principal traz de uma ramificação).
+
+
 
 ## Principais termos usados ao trabalhar com Git e Github
 

@@ -14,6 +14,7 @@
 - Staged (Pronto para commit)
     Um arquivo já pertencente ao repoitório que foi modificado e pronto para ser sincronizado.
 
+![Alt text](image.png)
 
 ## Comandos disponíveis para trabalhar com git por terminal
 
@@ -22,3 +23,4 @@
 
 - git add <arquivo>
     Adiciona um arquivo para o estado de Staged.
+    

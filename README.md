@@ -68,7 +68,6 @@
     Estando na ramificação principal, apaga uma ramificação.
 
 
-
 ## Principais termos usados ao trabalhar com Git e Github
 
 - **Git:** Sistema de controle de versão distribuído que permite o rastreamento de alterações no código-fonte durante o desenvolvimento de software.

@@ -52,14 +52,14 @@
 - *git fetch*  
     Baixa e espera análise das modificações salvas do repositório remoto para o repositório local.
 
+- *git branch*  
+    Mostra as ramificações disponíveis e em qual delas se encontra o desenvolvimento.
+
 - *git branch &lt;nome da nova branch&gt;*  
     Cria uma nova ramificação para desenvolvimento de código em paralelo.
 
 - *git checkout &lt;nome da branch&gt;*  
     Muda o local de desenvolvimento de uma ramificação para outra.
-
-- *git log --oneline --decorate*  
-    Mostra a ramificação do local de desenvolvimento, as demais ramificações disponíveis e os commits feitos.
 
 
 ## Principais termos usados ao trabalhar com Git e Github
